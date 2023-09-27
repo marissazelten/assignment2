@@ -15,7 +15,7 @@ body {
   font-weight: bolder;
   font-size: 14px;
   background-image:url("ingredients.jpg");
-    background-size: 800px 800px;
+    background-image-size: cover;
     background-repeat: no-repeat;
 
 
