@@ -14,8 +14,8 @@ h1 {
 body {
   font-weight: bolder;
   font-size: 14px;
-  background-image:url("ingredients.jpg");
-    background-image-size: cover;
+  background: url("ingredients.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
 
 
