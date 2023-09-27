@@ -1,4 +1,4 @@
-
+e
 h1 {
     text-align: center;
     font-family: "verdana", sans-serif;
@@ -15,7 +15,7 @@ body {
   font-weight: bolder;
   font-size: 14px;
   background-image:url("ingredients.jpg");
-    background-size: 400px 450px;
+    background-size: auto;
 
 }
 
