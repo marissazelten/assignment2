@@ -1,4 +1,5 @@
-e
+/* Place your CSS styles in this file */
+
 h1 {
     text-align: center;
     font-family: "verdana", sans-serif;
@@ -14,10 +15,8 @@ h1 {
 body {
   font-weight: bolder;
   font-size: 14px;
-  background: url("ingredients.jpg");
+  background-image:url("ingredients.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
-
 
 }
 
